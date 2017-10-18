@@ -1,87 +1,28 @@
-newmtl Sm_large_s_terrace3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl Sm_medium_s_terrace2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl Sm_small_terrace1:ZBrushPolyMesh3D1SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl Sm_small_terrace2:ZBrushPolyMesh3D1SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl Sm_small_w_terrace1:ZBrushPolyMesh3D1SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl initialShadingGroup
+newmtl rockReferenced:PM3D_Plane3D5_lambertSG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface9SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
-Ni 1.00
-newmtl polySurface103SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd sm_uv_rocks.psd
 Ni 1.00
 newmtl rockReferenced:blinn1SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Rocks_combined.tga
+map_Kd Rocks_combined.PSD
 Ni 1.00
 Ks 0.50 0.50 0.50
-newmtl sm_05x_hillCliff_1:initialShadingGroup
+newmtl rockReferenced:blinn2SG
 illum 4
-Kd 0.50 0.50 0.50
+Kd 0.17 0.44 0.17
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl sm_05x_hillCliff_2:initialShadingGroup
+Ks 0.50 0.50 0.50
+newmtl rockReferenced:lambert4SG
 illum 4
-Kd 0.50 0.50 0.50
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl sm_1x_hillCliff_1:initialShadingGroup
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl sm_2x_hillCliff_1:initialShadingGroup
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
+map_Kd grassDiffuse2.tga
 Ni 1.00
